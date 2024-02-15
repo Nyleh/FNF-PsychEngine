@@ -1,0 +1,112 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "meltio idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-321
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "meltio down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				68
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "meltio left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				367
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "meltio up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-34
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "meltio right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "end",
+			"indices": [],
+			"name": "meltio scream"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				70
+			],
+			"anim": "fall",
+			"fps": 24,
+			"name": "meltio jump 2",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				130
+			],
+			"anim": "jump",
+			"fps": 24,
+			"name": "meltio jump0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Melted_MarioEXE_Assets",
+	"position": [
+		-40,
+		-90
+	],
+	"healthicon": "meltedmario",
+	"flip_x": false,
+	"healthbar_colors": [
+		111,
+		0,
+		0
+	],
+	"camera_position": [
+		50,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

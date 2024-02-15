@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				66,
+				156
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Peach"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				156
+			],
+			"anim": "talk",
+			"fps": 21.5,
+			"name": "Peach",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Coronation_Peach_Dialogue1",
+	"position": [
+		-80,
+		60
+	],
+	"healthicon": "peach",
+	"flip_x": false,
+	"healthbar_colors": [
+		133,
+		63,
+		68
+	],
+	"camera_position": [
+		-320,
+		-340
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
