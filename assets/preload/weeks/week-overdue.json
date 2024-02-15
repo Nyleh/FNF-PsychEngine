@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Overdue", "icon-fake-mrl", [20, 180, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"storyName": "I Hate You",
+	"weekBefore": "",
+	"weekName": "Week-Luigi",
+	"startUnlocked": false,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

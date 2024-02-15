@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Golden Land", "icon-gb2", [148, 148, 148]],
+		["Paranoia", "icon-v", [255, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"ad",
+		"",
+		""
+	],
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "Mario Crepypastas",
+	"startUnlocked": false,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

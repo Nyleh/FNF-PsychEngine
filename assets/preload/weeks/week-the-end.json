@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["The End","costume",[99,99,99]],
+		["All Stars", "ultram", [71, 15, 15]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "end",
+	"difficulties": "Normal",
+	"storyName": "All Stars",
+	"weekBefore": "",
+	"weekName": "week-all-stars",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

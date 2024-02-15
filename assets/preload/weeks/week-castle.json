@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Oh God No", "luigiP", [20, 180, 0]],
+		["I Hate You", "icon-luigiH", [20, 180, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "ihy",
+	"difficulties": "Normal",
+	"storyName": "I Hate You",
+	"weekBefore": "",
+	"weekName": "Week-Luigi",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

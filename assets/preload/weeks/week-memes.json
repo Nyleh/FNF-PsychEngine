@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["So cool", "icon-chris", [194, 194, 194]],
+		["Nourishing Blood", "icon-gdad", [255, 143, 126]],
+		["Day Out", "icon-mario-ldo", [255, 0, 0]],
+		["Racetraitors","race2",[255,0,0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"storyName": "It's Me, Mario",
+	"weekBefore": "",
+	"weekName": "Week 1",
+	"startUnlocked": false,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

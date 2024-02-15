@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Its a me", "marioex", [71, 15, 15]],
+		["Starman Slaughter", "meltedmario", [71, 15, 15]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "mario",
+	"difficulties": "Normal",
+	"storyName": "Daddy Dearest",
+	"weekBefore": "",
+	"weekName": "Week-Mario",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["No Hope","devil",[255,0,0]],
+		["Mario Sing and Game Rythm 9","somari",[0,0,255]],
+		["Apparition","icon-wario2",[216,198,78]],
+		["No Party","hally",[0,0,0]],
+		["Unbeatable", "sys", [71, 15, 15]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"difficulties": "Normal",
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "",
+	"weekName": "Week 1",
+	"startUnlocked": false,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

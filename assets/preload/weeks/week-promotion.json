@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Promotion", "icon-promo", [255, 44, 0]],
+		["Abandoned", "icon-wdwluigi", [116, 166, 19]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "promotion",
+	"difficulties": "Normal",
+	"storyName": "It's Me, Mario",
+	"weekBefore": "",
+	"weekName": "Week 1",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

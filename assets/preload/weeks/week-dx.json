@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Powerdown", "icon-fake", [134, 51, 18]],
+		["Demise", "icon-2MX", [75, 20, 14]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "demise",
+	"difficulties": "Normal",
+	"storyName": "Daddy Dearest",
+	"weekBefore": "",
+	"weekName": "Week 1",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

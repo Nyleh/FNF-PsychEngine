@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Alone", "beta", [20, 180, 0]],
+		["Thalassophobia", "real", [69,121, 120]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "luigi",
+	"difficulties": "Normal",
+	"storyName": "Is not real",
+	"weekBefore": "",
+	"weekName": "Week-Luigi",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
